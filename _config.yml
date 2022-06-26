@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-5215-1930
-  google-scholar: https://scholar.google.com/citations?user=iVqqqVkAAAAJ&hl=en&oi=ao
+  google-scholar: citations?user=iVqqqVkAAAAJ&hl=en&oi=ao
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -103,7 +103,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#EDEA21"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
