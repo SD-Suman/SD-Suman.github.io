@@ -18,9 +18,8 @@ navbar-links:
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog: "blog"
   Portfolio: "portfolio"
-  Author's home: "https://sd-suman.github.io/"
+  Blog: "https://sd-suman.github.io/"
 
 # --- Logo --- #
 
