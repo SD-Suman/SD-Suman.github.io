@@ -10,8 +10,8 @@ tags:
 published: true
 ---
 
-#cover-img: /assets/img/path.jpg
-#share-img: /assets/img/path.jpg
+[//]: # (cover-img: /assets/img/path.jpg)
+[//]: # (share-img: /assets/img/path.jpg)
 
 
 I recently did a fresh install of linux for the _nth_ time (remember to always backup your precious files!). History of my linux use is, as predictable, a slow Windows 7 PC. Now I cannot imagine going back to Windows anymore.
