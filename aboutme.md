@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Blog and Portfolio
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Suman Dharmasthala (SD-Suman). I am an urban and regional planner, researcher and data scientist. I have a Masters and Bachelors degree in Urban Planning, a perpetual curiosity about things in the world, a big motivation to do something functional, productive and helpful for the society and be part of solutions to some of the various problems and challenges facing the society today (major drive and motivation).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### More Information
+I constantly update my CV (in LaTeX). Please find it here.
 
-What else do you need?
+## Scientific Publications:
+Climate hazards are threatening vulnerable migrants in Indian megacities [DOI]
 
-### My story
+### Contact me
+Please mail me at suman.nad@gmail.com
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
