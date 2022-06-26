@@ -1,17 +1,17 @@
 ---
 layout: post
 title: R and Python in fresh Linux OS install
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+subtitle: Installing R Studio, setting up Anaconda and your environments in a fresh Linux install.
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags:
-  - books
-  - test
+  - r
+  - python
+  - linux
 published: true
 ---
 
-Installing R Studio, setting up Anaconda and your environments in a fresh Linux install.
+#cover-img: /assets/img/path.jpg
+#share-img: /assets/img/path.jpg
 
 
 I recently did a fresh install of linux for the _nth_ time (remember to always backup your precious files!). History of my linux use is, as predictable, a slow Windows 7 PC. Now I cannot imagine going back to Windows anymore.
@@ -29,7 +29,6 @@ Here I list out the first steps to get your Linux system up and running quickly 
 
 While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install (through the terminal) which I got through non-zero exits error while installing R packages. Please note that your linux system may be different and may need different dependencies.
 
-'''md
     sudo apt-get install libcurl4-openssl-dev
     sudo apt install libudunits2-dev
     sudo apt install libssl-dev
@@ -48,7 +47,6 @@ While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.c
     sudo apt-get install -y libssl-dev
     sudo apt install libgdal-dev
     sudo apt-get install gdal-bin proj-bin
-'''
 
 Two newly discovered missing packages in the MX Linux distro:
 
@@ -63,22 +61,18 @@ Another thing that is religiously required to be done before installing Linux is
 
 To list out the environments you have: 
 
-'''md
     conda env list
-'''
+
 
 To save your environment to further save it in backup:
-'''md
     conda activate <environment_name>
     conda env export > environment.yml
-'''
+
 
 Make sure you back up these .yml files as well.
 
 To get it running in the new OS: 
-'''md
     conda env create -n <your_prefered_env_name> --file environment.yml
-'''
 
 You may temporarily copy the environment file to your home folder or change the path in terminal to access the file. I do the first. 
 
@@ -91,23 +85,17 @@ Creating alias is beautifully explained in this [link](https://www.tecmint.com/c
 
 To check existing alias:
 
-'''md
     alias 
-'''
 
 For alias for different Python IDEs, I generally have the following lines added to my .bashrc file:
 
-'''md
     alias xj="conda activate ox && jupyter notebook"
     alias xs="conda activate ox && spyder"
     alias xd="conda deactivate"
-'''
 
 And a new favorite:
 
-'''md
     alias xj="conda activate ox && jupyter lab"
-'''
 
 All done! 
 
