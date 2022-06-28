@@ -15,10 +15,10 @@ author: Suman Dharmasthala
 
 navbar-links:
   About Me: "aboutme"
-  Portfolio:
-    - Crime and Planning: "https://github.com/SD-Suman/SD-Suman.github.io/tree/master/portfolio/2022-06-28-crime-and-physical-environment.md"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  # Portfolio: "https://sd-suman.github.io/portfolio/"
+  #Portfolio:
+  #  - Crime and Planning: "https://github.com/SD-Suman/SD-Suman.github.io/tree/master/portfolio/2022-06-28-crime-and-physical-environment.md"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Portfolio: "https://sd-suman.github.io/portfolio/"
   Blog: "https://sd-suman.github.io/"
 
 # --- Logo --- #
