@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Learn Python Quickly
-subtitle: All you need to know to learn Python quickly: all the basics
+subtitle: All you need to know to learn Python quickly: all the basics 
 tags:
-  - python
-
+  - python 
 published: true
 ---
 
