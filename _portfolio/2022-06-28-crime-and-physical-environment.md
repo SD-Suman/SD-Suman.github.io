@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Crime and Physical Environment 
 subtitle: Correlating and derriving associations
 tags:
