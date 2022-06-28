@@ -2,7 +2,6 @@
 layout: post
 title: R and Python in fresh Linux OS install
 subtitle: Installing R Studio, setting up Anaconda and your environments in a fresh Linux install.
-thumbnail-img: /assets/img/thumb.png
 tags:
   - r
   - python
@@ -12,7 +11,7 @@ published: true
 
 [//]: # (cover-img: /assets/img/path.jpg)
 [//]: # (share-img: /assets/img/path.jpg)
-
+[//]: # (thumbnail-img: /assets/img/thumb.png)
 
 I recently did a fresh install of linux for the _nth_ time (remember to always backup your precious files!). History of my linux use is, as predictable, a slow Windows 7 PC. Now I cannot imagine going back to Windows anymore.
 
