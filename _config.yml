@@ -15,10 +15,10 @@ author: Suman Dharmasthala
 
 navbar-links:
   About Me: "aboutme"
-  # Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Portfolio: "https://sd-suman.github.io/portfolio/"
+  Portfolio:
+    - Crime and Planning: "https://sd-suman.github.io/portfolio/2022-06-28-crime-and-physical-environment.md"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Portfolio: "https://sd-suman.github.io/portfolio/"
   Blog: "https://sd-suman.github.io/"
 
 # --- Logo --- #
