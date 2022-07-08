@@ -12,8 +12,6 @@ I heard somewhere in passing that Sanskrit language does not have a word for tea
 
 I have a formal training in C/C++ by amazing teachers in my 11th and 12th std. We used the compilers and for the final exam, I also remember writing the code on paper and then also using the compiler in the lab for it. With that solid programming background, I self-learnt R easily after several years of learning C, but learning python was a mix of self-learning, books, online free courses and videos and a very helpfu certificate course. 
 
-![an image alt text](https://raw.githubusercontent.com/SD-Suman/SD-Suman.github.io/master/images/codeimage.jpg)
-
 
 ### R vs Python 
 
