@@ -26,17 +26,18 @@ Correlation of crimes with 42 physical/related factors was done using excel and 
 
 Insights from the correlation coefficients and overall study showed some commonly known association while also giving counter-intuitive results. Some of them are shared below:
 
-1. Slum population had positive correlation with the crimes - shows that while crimes occur in high poverty areas, they are also often the victims of the crimes. 
+1. Slum population had positive correlation with the crimes - shows that while crimes occur in high poverty areas, they are also often the victims of the crimes.
 
-2. population growth rate had no correlation to crime incidences
+2. population growth rate had no correlation to crime incidences.
 
-3. 
+3. Higher negetive correlation of narcotics crimes with areas with parks - places with parks are safer.
 
+4. Perception of safety is different than the actual incidence of crime - for a few wards, this could be as the wards area was large so there still maybe pockects of safe and unsafe neighbourhoods within the ward itself; for others, it could be shaped from the media reports of crimes instilling the safety perception/fear in residents.
 
-Other insights:
+5. Crimes themselves were correlated - where one of the crimes was high, others were high too. Converse was also true for low crimes of one sort. Only exception being that of narcotics crimes not being correlated to other crimes.
 
-1. Perception of safety is different than the actual incidence of crime - for a few wards, this could be as the wards area was large so there still maybe pockects of safe and unsafe neighbourhoods within the ward itself; for others, it could be shaped from the media reports of crimes instilling the safety perception/fear in residents. 
+6. Areas with dead-end streets (cul-de-sacs) had lower incidence of crime - maybe due to the absence of escape routes for criminals.
 
-2. Crimes themselves were correlated - where one of the crimes was high, others were high too. Converse was also true for low crimes of one sort. Only exception being that of narcotics crimes not being correlated to other crimes. 
+**Conclusion**:
 
-3 . Areas with dead-end streets (cul-de-sacs) had lower incidence of crime - maybe due to the absence of escape routes for criminals. 
+While a lot of factors affect crimes: from socio-economic, political (law and order situation) and urban design and planning factors, we could design better cities to make crimes less viable to occur. While this could be a great study to check especailly with present methods and computation, this was a small attempt during my bachelors to use quantitative (mostly) and qualitative data to get to some associations using correlation. 
