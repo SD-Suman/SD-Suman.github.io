@@ -3,8 +3,8 @@ layout: post
 title: Complex Systems
 subtitle: Simplified answer to the question: "What are Complex Systems?"
 tags:
-  - complex system
-  - introduction
+  - complexity
+  - brief
 published: true
 ---
 
