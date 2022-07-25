@@ -5,7 +5,7 @@ subtitle: Simplified answer to the question - "What are Complex Systems?"
 tags:
   - complexity
   - brief
-published: true
+published: false
 ---
 
 
