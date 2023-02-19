@@ -14,4 +14,4 @@ I constantly update my CV (in LaTeX). Please find it [here](Documents/CV_Suman_.
 Climate hazards are threatening vulnerable migrants in Indian megacities [[DOI]](https://doi.org/10.1038/s41558-021-01105-7)
 
 ### Contact me
-Please mail me at suman.nad@gmail.com
+Mail me at suman.nad@gmail.com
