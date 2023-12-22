@@ -17,4 +17,4 @@ For now, I have used a simple state-wise incoming and outgoing migration visuali
 
 [Click here to access the Shiny App](https://sumandharmasthala.shinyapps.io/MigDashboard/)
 
-Please note that the incoming migrants are to each districts in the state while the outgoing migrant data is only available for each state (so centroid of the state is considered). 
+Please note that the incoming migrants (dots and lines) are to each district in the state while the outgoing migrant data is only available for each state (so the centroid of the state is considered). 
