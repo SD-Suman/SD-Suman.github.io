@@ -7,7 +7,7 @@ published: true
 
 # [Cities in Books from a colleague's website](/portfolio/2023-12-24-Mapping-cities-in-books.md) 
 
-A previous colleague's website [CITIES IN FICTION](https://www.citiesinfiction.com/archive) has cities mentioned which I mapped. Take a look [here](/portfolio/2023-12-22-inter-state-migration-dashboard.md)
+A previous colleague's website [CITIES IN FICTION](https://www.citiesinfiction.com/archive) has cities mentioned which I mapped. Take a look [here](/portfolio/2023-12-23-cities-in-books.md)
 
 
 # [Visualizing incoming and outgoing migrants (2011) from each state in India](/portfolio/2023-12-22-inter-state-migration-dashboard.md) 
