@@ -105,7 +105,7 @@ For alias for different Python IDEs, I generally have the following lines added 
 
 And a new favorite:
 
-    alias xj="conda activate ox && jupyter lab"
+    alias xl="conda activate ox && jupyter lab"
 
 All done! 
 
