@@ -66,6 +66,9 @@ and paste the following line at the end of the file:
 
     export PATH="/home/username/anaconda3/bin:$PATH"
 
+After saving and closing the file, do:
+
+    source ~/.bashrc
 
 Another thing that is religiously required to be done before installing Linux is to get all of your conda environments downloaded (as you might have added new modules and updated it). The [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) pages are the best place to go as a rule, especially for R, Python and its modules, although there are ton of other resources as well. Use the code:
 
@@ -109,7 +112,7 @@ And a new favorite:
 
 All done! 
 
-In addition to the above there is usual installation of software such as QGIS, Google Earth Pro, GIMP, LibreOffice, PDF merger etc. I write this to help other beginners and for myself when I yet again do a fresh install of a better, lighter, faster Linux OS. For now, [MX Linux](https://mxlinux.org/) has been a feather light experience and best among any linux I have used without any junk (that I know of). 
+In addition to the above there is usual installation of software such as QGIS, Google Earth Pro, GIMP, LibreOffice, PDF merger etc. I write this to help other beginners and for myself when I yet again do a fresh install of a better, lighter, faster Linux OS. For now, [MX Linux](https://mxlinux.org/) has been a feather light experience and best among any linux I have used without any junk (that I know of). Ubuntu comes with a ton of bloat and is super slow compared to MXLinux Fluxbox. But ubuntu looks so much nicer - still of no use if its slow. 
 
 The best things about MX Linux is its Bash Config and Clipboard which stores previous copied lines as well and is available as a tray icon in the bottom toolbar next to time. The worst thing is it doesn't readily show the power icon on the same toolbar. I am still keeping the MX Linux for a while and not switching as the pros outweigh the cons in a great proportion.  
 
