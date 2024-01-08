@@ -56,6 +56,17 @@ Two newly discovered missing packages in the MX Linux distro:
 
 Again super simple [instructions](https://docs.anaconda.com/anaconda/install/linux/) to follow. 
 
+After the steps above, you might need to add the path environment variable in .bashrc file using:
+
+    nano ~/ .bashrc 
+
+(to enter into edit mode)
+
+and paste the following line at the end of the file: 
+
+    export PATH="/home/username/miniconda/bin:$PATH"
+
+
 Another thing that is religiously required to be done before installing Linux is to get all of your conda environments downloaded (as you might have added new modules and updated it). The [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) pages are the best place to go as a rule, especially for R, Python and its modules, although there are ton of other resources as well. Use the code:
 
 To list out the environments you have: 
