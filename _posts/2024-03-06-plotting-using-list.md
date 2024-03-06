@@ -2,5 +2,5 @@ When I code, I generally want it to work in a way. A single goal in coding (or l
 
 Screenshot: 
 
-![image](/assets/img/logisticmapequation.jpg)
+![image](/assets/img/plotting_using_list.png)
 
