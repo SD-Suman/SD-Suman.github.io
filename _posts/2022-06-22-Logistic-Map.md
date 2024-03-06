@@ -5,7 +5,7 @@ subtitle: A simple equation with complex outcomes
 tags:
   - math
   - fascinating
-published: true
+published: false
 ---
 
 My curiousity about complex systems and its applciation in finding solutions for the intrinsical complexity that is urban (social and resource utilization) systems led me to this beautiful equation. 
