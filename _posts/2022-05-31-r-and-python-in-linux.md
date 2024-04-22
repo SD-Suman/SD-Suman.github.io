@@ -46,6 +46,7 @@ While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.c
     sudo apt-get install -y libssl-dev
     sudo apt install libgdal-dev
     sudo apt-get install gdal-bin proj-bin
+    sudo apt-get install libharfbuzz-dev  libfribidi-dev
 
 Two newly discovered missing packages in the MX Linux distro:
 
