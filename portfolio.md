@@ -5,6 +5,11 @@ subtitle: Selected Projects
 published: true
 ---
 
+# [Joining the Census of India 2001 and 2011 data](/portfolio/2024-06-11-census-data-merge-2001-2011.md) 
+
+The final result of monumental task of joining the Census of India 2001 and 2011 data - with district names and population data for both decades is put up here. Read more about it [here](/portfolio/2024-06-11-census-data-merge-2001-2011.md)
+
+
 # [Cities in Books from a colleague's website](/portfolio/2023-12-23-cities-in-books.md) 
 
 A previous colleague's website [CITIES IN FICTION](https://www.citiesinfiction.com/archive) has cities mentioned which I mapped. Take a look [here](/portfolio/2023-12-23-cities-in-books.md)
