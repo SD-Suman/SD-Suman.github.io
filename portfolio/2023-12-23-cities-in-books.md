@@ -6,6 +6,9 @@ tags:
   - visualization
   - cities
   - map
+  - visualization
+  - data analysis
+  - statistics
 published: true
 ---
 
