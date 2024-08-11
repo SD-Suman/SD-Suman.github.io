@@ -12,8 +12,6 @@ tags:
 published: true
 ---
 
-%## Which cities have the potential for growth according to migration patterns? 
-
 I analysed the 2001 and 2011 migration data by first converting it into a bipartite network - as the data available is state to district migration making it a directed bipartite graph. As I also have the migration flow values, which I used as weights, I now had a weighted directed bipartite graph. 
 
 The data cleaning and getting nodes and their coordinates in one Excel file and edge list with weights with the same IDs in the node file with new IDs given to states was a task in itself. While that was fun, network analysis and especially looking up kinds of analysis that will help me find what I want answered was even more fun. 
