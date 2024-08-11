@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inter-State Migration Dashboard  
+title: Inter-State Migration Dashboard
 subtitle: Incoming and Outgoing migration from States using Census of India 2011 data
 tags:
   - dashboard
@@ -17,4 +17,7 @@ For now, I have used a simple state-wise incoming and outgoing migration visuali
 
 [Click here to access the Shiny App](https://sumandharmasthala.shinyapps.io/MigDashboard/)
 
-Please note that the incoming migrants (dots and lines) are to each district in the state while the outgoing migrant data is only available for each state (so the centroid of the state is considered). 
+A screenshot of the app with one state selected is below. You can exlore 'To' and 'From' migration patterns for different states from the shiny dashboard (from link) above. 
+![image](/assets/img/OutMig_fromUP.png)
+ 
+Please note that the incoming migrants (dots and lines) are to each district in the state while the outgoing migrant data is only available for each state (so the centroid of the state is considered).
