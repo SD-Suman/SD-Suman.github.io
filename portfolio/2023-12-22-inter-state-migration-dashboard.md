@@ -6,6 +6,9 @@ tags:
   - dashboard
   - R
   - migration
+  - visualization
+  - data analysis
+  - statistics
 published: true
 ---
 
