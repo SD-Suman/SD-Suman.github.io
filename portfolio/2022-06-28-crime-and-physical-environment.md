@@ -6,6 +6,8 @@ tags:
   - crime
   - land use
   - thesis
+  - correlation
+  - statistics
 published: true
 ---
 
