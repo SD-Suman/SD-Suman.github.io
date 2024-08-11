@@ -7,6 +7,7 @@ tags:
   - land use
   - thesis
   - correlation
+  - data analysis
   - statistics
 published: true
 ---
