@@ -5,6 +5,11 @@ subtitle: Selected Projects
 published: true
 ---
 
+# [Network Analysis of Migration Data from Census of India 2001 and 2011 data](/portfolio/2024-08-08-migration-network-analysis.md) 
+
+Inter-state migration data has State to District migration. To see what the patterns of 2001 and 2011 data have to say about which cities are most important, I did a network analysis using Networkx in Python. Read more about it [here](/portfolio/2024-08-08-migration-network-analysis.md)
+
+
 # [Joining the Census of India 2001 and 2011 data](/portfolio/2024-06-11-census-data-merge-2001-2011.md) 
 
 The final result of monumental task of joining the Census of India 2001 and 2011 data - with district names and population data for both decades is put up here. Read more about it [here](/portfolio/2024-06-11-census-data-merge-2001-2011.md)
