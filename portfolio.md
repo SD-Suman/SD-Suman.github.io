@@ -5,7 +5,7 @@ subtitle: Selected Projects
 published: true
 ---
 
-# [Which cities have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
+# [Which districts have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
 
 To learn more about Network analysis, I undertook a project to look for prominent districts based on Census of India Migration data for 2001 and 2011 using Network Analysis. This data consists of inter-state migration numbers from states to districts. I used Networkx in Python. Read more about it [here](/portfolio/2024-08-08-migration-network-analysis.md)
 
