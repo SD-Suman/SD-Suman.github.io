@@ -9,6 +9,9 @@ tags:
   - land use
   - thesis
   - spatial
+  - economic
+  - multivariable regression analysis
+  - statistics
 published: true
 ---
 
