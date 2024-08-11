@@ -11,6 +11,7 @@ tags:
   - spatial
   - economic
   - multivariable regression analysis
+  - data analysis
   - statistics
 published: true
 ---
