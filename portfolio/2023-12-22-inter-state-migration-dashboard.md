@@ -6,6 +6,7 @@ tags:
   - dashboard
   - R
   - migration
+  - map
   - visualization
   - data analysis
   - statistics
