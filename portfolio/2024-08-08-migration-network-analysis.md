@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Which cities have the potential for growth according to migration patterns?
+title: Which districts have the potential for growth according to migration patterns?
 subtitle: In-degrees and pagerank analysis
 tags:
   - network analysis
