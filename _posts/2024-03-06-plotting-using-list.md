@@ -3,3 +3,8 @@ Today, accidently, I plotted a line using 'list' in python!!! While wanting to g
 Screenshot: 
 
 ![image](/assets/img/plotting_using_list.png)
+
+The one below also shows a shape when printed (and saved, it can be used in NetworkX/OSMNX graph), which is similar to the one above - plots the geometry directly. 
+
+![image](/assets/img/polygon_shape.png)
+
