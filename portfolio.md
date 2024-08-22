@@ -5,6 +5,11 @@ subtitle: Selected Projects
 published: true
 ---
 
+# [Gini Index and Lorenz Curve Scenarios](/portfolio/2024-08-22-gini-index.md) 
+
+I visualized how the Lorenz curve and the gini index looked for different scenarios, by making up data using random numbers in a range in python. Read more about it [here](/portfolio/2024-08-22-gini-index.md)
+
+
 # [Which districts have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
 
 To learn more about Network analysis, I undertook a project to look for prominent districts based on Census of India Migration data for 2001 and 2011 using Network Analysis. This data consists of inter-state migration numbers from states to districts. I used Networkx in Python. Read more about it [here](/portfolio/2024-08-08-migration-network-analysis.md)
