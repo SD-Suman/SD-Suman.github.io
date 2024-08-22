@@ -4,6 +4,6 @@ A long while ago, our team at the preparation of revised master plan for Bangalo
 
 Either way, now that I am brushing up on my economics, I was curious again about how different scenarios of income distribution would make the graph look like. So putting the different scenarios below. 
 
-![image](/assets/img/WID_PR.png)
+![image](/assets/img/GC_LC.png)
 
 In this even if wealth was concentrated in a few hands while others are 'equally' 'poor', would also be considered 'equal wealth distribution'.    
