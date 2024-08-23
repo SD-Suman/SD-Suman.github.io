@@ -28,7 +28,7 @@ The figure below shows the districts that are 'prominent'. In the map on the rig
 
 The table below gives the list of top 20 and bottom 20 of the ones shown in the map (top 10 percent of PR values) and bottom 20 of the in-degree values which are not shown in map as well. 
 
-| In-degrees – Top 20          | In-degrees – Bottom 20 (in > 90th Percentile) | In-degrees – Bottom 20 (Not in Map) | Pagerank           |
+| In-degrees – Top 20          | In-degrees – Bottom 20 (in > 90th Percentile) | In-degrees – Bottom 20 (Not in Map) | Pagerank - Top 20          |
 |------------------------------|------------------------------------------------|-------------------------------------|---------------------|
 | Bangalore                    | Gorakhpur                                     | Pashchimi Singhbhum                | Bangalore            |
 | Surat                        | Gulbarga                                      | Saharsa                             | Ghaziabad           |
