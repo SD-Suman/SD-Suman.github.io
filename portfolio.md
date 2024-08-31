@@ -8,7 +8,7 @@ published: true
 # [Gini Index and Lorenz Curve Scenarios](/portfolio/2024-08-22-gini-index.md) 
 
 I visualized how the Lorenz curve and the gini index looked for different scenarios, by making up data using random numbers in a range in python. 
-![image](/assets/img/GC_LC.png)
+![image](/assets/img/GC_LC.png){width=100}
 Read more about it [here](/portfolio/2024-08-22-gini-index.md)
 
 
