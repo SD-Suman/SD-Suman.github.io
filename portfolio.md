@@ -21,6 +21,10 @@ Read more about it [here](/portfolio/2024-08-22-gini-index.md)
 
 # [Which districts have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
 
+<div style="text-align: center;">
+    <img src="/assets/img/WID_PR.png" alt="image" width="400"/>
+</div>
+
 To learn more about Network analysis, I undertook a project to look for prominent districts based on Census of India Migration data for 2001 and 2011 using Network Analysis. This data consists of inter-state migration numbers from states to districts. I used Networkx in Python. Read more about it [here](/portfolio/2024-08-08-migration-network-analysis.md)
 
 
@@ -31,15 +35,27 @@ The final result of monumental task of joining the Census of India 2001 and 2011
 
 # [Cities in Books from a colleague's website](/portfolio/2023-12-23-cities-in-books.md) 
 
+<div style="text-align: center;">
+    <img src="/assets/img/Books.png" alt="image" width="400"/>
+</div>
+
 A previous colleague's website [CITIES IN FICTION](https://www.citiesinfiction.com/archive) has cities mentioned which I mapped. Take a look [here](/portfolio/2023-12-23-cities-in-books.md)
 
 
 # [Visualizing incoming and outgoing migrants (2011) from each state in India](/portfolio/2023-12-22-inter-state-migration-dashboard.md) 
 
+<div style="text-align: center;">
+    <img src="/assets/img/OutMig_fromUP.png" alt="image" width="400"/>
+</div>
+
 This project made me learn so many things! Helped me collaborate with some amazing people (scientists) and produced 1 publication (and one is on the way). Visualization link in [here](/portfolio/2023-12-22-inter-state-migration-dashboard.md)
 
 
 # [Does economic development translate to spatial development?](/portfolio/2022-07-15-regional-economic-growth-spatial-growth.md) 
+
+<div style="text-align: center;">
+    <img src="/assets/img/Hierarchy of settlements_New.png" alt="image" width="400"/>
+</div>
 
 I wanted to do a cellular automata based (complex system) urban growth model but as there was no one to guide such a project, this is the second project I could think of. It was interesting nonetheless and allowed me to work with supervised satellite imagery classification, derive a hierarchy for settlements, and work with multi-variable regression analysis to try and answer the question: 'Does economic development mean spatial development as well?'. Read more about it [here](/portfolio/2022-07-15-regional-economic-growth-spatial-growth.md)
 
