@@ -10,7 +10,7 @@ published: true
 I visualized how the Lorenz curve and the gini index looked for different scenarios, by making up data using random numbers in a range in python. 
 
 <div style="text-align: center;">
-    <img src="/assets/img/GC_LC.png" alt="image" width="200"/>
+    <img src="/assets/img/GC_LC.png" alt="image" width="400"/>
 </div>
 
 <!--
