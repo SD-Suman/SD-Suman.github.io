@@ -15,5 +15,8 @@ My name is Suman Dharmasthala (SD-Suman). I am an urban and regional planner, re
 ## Scientific Publications:
 Climate hazards are threatening vulnerable migrants in Indian megacities [[DOI]](https://doi.org/10.1038/s41558-021-01105-7)
 
+## Other Publications:
+Photo Essay on contrast between 'High-Tech' Zone development and its infrastructure in [[EPW Engage]](https://www.epw.in/engage/article/photo-essay-study-contrasts-bengalurus-high-tech-zone). 
+
 ### Contact me
 Mail me at suman.nad@gmail.com
