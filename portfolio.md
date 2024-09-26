@@ -19,6 +19,22 @@ I visualized how the Lorenz curve and the gini index looked for different scenar
 
 Read more about it [here](/portfolio/2024-08-22-gini-index.md)
 
+
+# [Emotional Arc of the Most Read Book in the World](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md) 
+
+<div style="text-align: center;">
+    <img src="/assets/img/sentiment_emotionalarc.png" alt="image" width="400"/>
+</div>
+
+The Rise-Fall-Rise arc of the Book.  
+
+<!--
+![image](/assets/img/sentiment_emotionalarc.png)
+-->
+
+Read more about it [here](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md)
+
+
 # [Which districts have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
 
 <div style="text-align: center;">
