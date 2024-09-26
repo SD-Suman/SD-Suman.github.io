@@ -26,7 +26,7 @@ Read more about it [here](/portfolio/2024-08-22-gini-index.md)
     <img src="/assets/img/sentiment_emotionalarc.png" alt="image" width="400"/>
 </div>
 
-The Rise-Fall-Rise arc of the Book.  
+The Rise-Fall-Rise emotional arc of the Book.  
 
 <!--
 ![image](/assets/img/sentiment_emotionalarc.png)
