@@ -11,13 +11,13 @@ published: true
     <img src="/assets/img/GC_LC.png" alt="image" width="400"/>
 </div>
 
-I visualized how the Lorenz curve and the gini index looked for different scenarios, by making up data using random numbers in a range in python. 
+I visualized how the Lorenz curve and the gini index looked for different scenarios, by making up data using random numbers in a range in python. Read more about it [here](/portfolio/2024-08-22-gini-index.md)
+
 
 <!--
 ![image](/assets/img/GC_LC.png)
 -->
 
-Read more about it [here](/portfolio/2024-08-22-gini-index.md)
 
 
 # [Emotional Arc of the Most Read Book in the World](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md) 
@@ -26,13 +26,13 @@ Read more about it [here](/portfolio/2024-08-22-gini-index.md)
     <img src="/assets/img/sentiment_emotionalarc.png" alt="image" width="400"/>
 </div>
 
-The Rise-Fall-Rise emotional arc of the Book.  
+The Rise-Fall-Rise emotional arc of the Book. Read more about it [here](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md)
+
 
 <!--
 ![image](/assets/img/sentiment_emotionalarc.png)
 -->
 
-Read more about it [here](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md)
 
 
 # [Which districts have potential for growth according to migration patterns?](/portfolio/2024-08-08-migration-network-analysis.md) 
