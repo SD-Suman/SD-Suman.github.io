@@ -30,11 +30,14 @@ To make visualization and analysis (for my computer) easier, I have taken a part
 
 ![image](/assets/img/roadnet/Pette_residential.png)
 
+The network given by osmnx and taken as a network graph in networkx is shown below with edges in grey lines and nodes as red dots. 
 
 ![image](/assets/img/roadnet/Pette_nodes_edges.png)
 
+The dead-ends are more clearly visible in the map below. The extended deadlines you see in some cases are the ends of the connectivity from the connected component to the dead-end point - in euclidian distance form. In my Bachelor's thesis it was found in interviews that these dead-ends were considered safer (long back) as there were less escape routes in case of robbery, theft, etc. 
 
 ![image](/assets/img/roadnet/Pette_dead_ends.png)
+
 
 
 ![image](/assets/img/roadnet/Pette_bet_cen.png)
