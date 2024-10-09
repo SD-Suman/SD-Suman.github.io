@@ -38,13 +38,15 @@ The dead-ends are more clearly visible in the map below. The extended deadlines 
 
 ![image](/assets/img/roadnet/Pette_dead_ends.png)
 
-
+The point with the highest betweenness centrality is given as the red dot in the map below. It is to be noted that this point is only in relation to the map shown and not the whole city. That analysis is computationally taxing. 
 
 ![image](/assets/img/roadnet/Pette_bet_cen.png)
 
+I also wanted to look at the connected components subgraphs using cliques or communities. While cliques and some community detection tools only work for the normal graphs, I found that using greedy modularity community tool of complex network analysis gives us the result below. It would be amazing to see this for the whole city to see if we could deliniate the neighbourhoods this way - if it is not already. For the part of network graph considered here, the algorithm gives the following road network communities:
+
 ![image](/assets/img/roadnet/Pette_greedy_modularity_community.png)
 
-
+I will update this page as I get to more analysis on the road network. I have a few other analysis worked out such as vornoi of road network accessed by the surrounding areas, connected components, etc. but that requires cleaner data to make sense out of it. Stay tuned and come back for more updates later! 
 
 
 
