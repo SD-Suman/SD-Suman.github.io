@@ -12,7 +12,7 @@ published: true
     <img src="/assets/img/roadnet/BBMP_dead_ends.png" alt="image" width="400"/>
 </div>
 
-Bangalore is known for being a city with one of the worst traffic. I analysed a part of the Bangalore's road network using osmnx and networkx in python. Read more about it [here](/portfolio/2024-10-09-Bangalore-road-network-analysis.md)
+Bangalore is known for being a city with one of the worst traffic. I analysed Bangalore's road network using osmnx and networkx in python. Read more about it [here](/portfolio/2024-10-09-Bangalore-road-network-analysis.md)
 
 
 <!--
