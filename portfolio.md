@@ -26,7 +26,7 @@ I visualized how the Lorenz curve and the gini index looked for different scenar
     <img src="/assets/img/sentiment_emotionalarc.png" alt="image" width="400"/>
 </div>
 
-The Rise-Fall-Rise emotional arc of the Book. Read more about it [here](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md)
+The Rise-Fall-Rise emotional arc of the Book. Sentiment analysis and emotional arc of Bible. Read more about it [here](/portfolio/2024-09-27-emotional-arc-for-the-most-read-book.md)
 
 
 <!--
