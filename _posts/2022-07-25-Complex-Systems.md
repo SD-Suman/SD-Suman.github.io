@@ -24,6 +24,41 @@ Imagine a part of the city outskirts - plan represented in (A) and neatly boxed 
 
 **Agent based modeling** is another super exciting area where you could, for example, get the whole (maybe macroeconomics?) from the sum of its parts (microeconomics) and it would not be a simple addition. 
 
-**Complex Networks** is a whole another field which looks at the connectedness - through edges and nodes. 
+**Complex Networks** is a whole another field which looks at the connectedness - through edges and nodes.
+
+Anything that considers non-linear dynamics, chaos, scale-free, unpredictable - or at least difficult to predict, with 'stochatic' elements is included in complex systems and has a large scope of application as most real world phenomenons are complex in nature. 
+
+<!---
+It has taken me long to understand some of the details and I am always learning something new (and also forgetting a few things along the way similar to my experience with statistics). While my journey has been self-taught, I believe, all you need is interest and time to pursue interesting things even if its not been a formal education.  
+--->
+
+## Power Laws
+
+difficult to predict -- scale-free - fractals and power law 
+
+
+
+
+The probability density function (PDF) of a power-law distribution is given by:
+
+\[
+P(x) = C \cdot x^{-\alpha}
+\]
+
+where:
+- \( P(x) \) is the probability of observing value \( x \),
+- \( C \) is a normalization constant,
+- \( x \) is the variable (e.g., size or frequency),
+- \( \alpha \) is the power-law exponent, a parameter that dictates the distribution’s "heaviness" of the tail.
+
+For continuous \( x \geq x_{\min} \):
+
+\[
+P(x) = \frac{\alpha - 1}{x_{\min}^{\alpha - 1}} \cdot x^{-\alpha}
+\]
+
+where:
+- \( x_{\min} \) is the minimum value for which the power-law holds.
+
 
 
