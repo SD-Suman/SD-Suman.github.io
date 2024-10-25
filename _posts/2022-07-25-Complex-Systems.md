@@ -32,9 +32,15 @@ Anything that considers non-linear dynamics, chaos, scale-free, unpredictable - 
 It has taken me long to understand some of the details and I am always learning something new (and also forgetting a few things along the way similar to my experience with statistics). While my journey has been self-taught, I believe, all you need is interest and time to pursue interesting things even if its not been a formal education.  
 --->
 
+## Fractals 
+Fractals are repeated patterns but they have non-integer values as their dimention/scaling factor (alpha). 
+
 ## Power Laws
 
-difficult to predict -- scale-free - fractals and power law 
+This took me a while to wrap my head around it but here are a few interesting things to know about power law distributions:
+
+It is 'scale-free'. Which means that 
+
 
 
 
