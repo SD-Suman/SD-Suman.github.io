@@ -39,26 +39,3 @@ difficult to predict -- scale-free - fractals and power law
 
 
 
-The probability density function (PDF) of a power-law distribution is given by:
-
-\[
-P(x) = C \cdot x^{-\alpha}
-\]
-
-where:
-- \( P(x) \) is the probability of observing value \( x \),
-- \( C \) is a normalization constant,
-- \( x \) is the variable (e.g., size or frequency),
-- \( \alpha \) is the power-law exponent, a parameter that dictates the distribution’s "heaviness" of the tail.
-
-For continuous \( x \geq x_{\min} \):
-
-\[
-P(x) = \frac{\alpha - 1}{x_{\min}^{\alpha - 1}} \cdot x^{-\alpha}
-\]
-
-where:
-- \( x_{\min} \) is the minimum value for which the power-law holds.
-
-
-
