@@ -17,7 +17,7 @@ Either way, now that I am brushing up on my economics, I was curious again about
 ![image](/assets/img/GC_LC.png)
 
 In this even if wealth was concentrated in a few hands while others are 'equally' 'poor', would also be considered 'equal wealth distribution'. Here the 'elbows' or the sudden slope movements in the Lorenz curve (cumulative distribution) become very important to see what kind of egalitarian it is. Looking at the curve rather than the coefficient is a better indicator of if everyone's equally 'poor' (very much possible) or equally 'rich' (I think this scenario is impossible).     
-In case of [power law distribution](/posts/2024-10-26-Complex-Systems.md), which is generally seen in the real world cases, with [alpha value, which is the scaling factor, between -2.5 and -3](/posts/2024-10-26-Complex-Systems.md), the GC and LC are as below:
+In case of [power law distribution](https://sd-suman.github.io/2024-10-26-Complex-Systems/), which is generally seen in the real world cases, with [alpha value, which is the scaling factor, between -2.5 and -3]([/posts/2024-10-26-Complex-Systems.md](https://sd-suman.github.io/2024-10-26-Complex-Systems/)), the GC and LC are as below:
 
 ![image](/assets/img/GC_LC_PL.png)
 
