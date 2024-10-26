@@ -16,7 +16,9 @@ Towards the end of our Masters in Regional Planning, a question was asked by a g
 
 I came across complex systems during a bachelor's assignment on spontaneous planning. This was for a case when there are natural disasters and people from the areas had to be temporarily evacuated. The prediction for the areas, how it be done, and others could be simulated using complex system: particularly, cellular automata (CA) or even agent based modeling. CA could also be used to predict a city's growth (SLEUTH model: Slope, Land Use, Exclusion, Urban, Transportation, Hillshade) and used in so many more models.  
 
+<!---
 ![image](/assets/img/CA.jpg)
+--->
 
 Imagine a part of the city outskirts - plan represented in (A) and neatly boxed into grids. Some of these grids are developed shown in black shaded portion, some are free to be developed. (B) shows the area of interest: one 'cell' where we want to know if that will be developed next. In an extremely simplified CA model, that depends on the cells immediately surrounding it and nothing else. So based on such rules complex models of this type of complex system is used in SLEUTH models for predicting a city's growth spatially. 
 
