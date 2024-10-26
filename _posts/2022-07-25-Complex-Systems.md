@@ -63,8 +63,8 @@ majority small numbers, very few and far spread-out large numbers in distributio
 
 #### Formula of Power Law distribution:
 
-P(x) = C*(x^-𝛼)
+P(x) = C*(x^-α)
 
 α>0, and the negative power indicates that as x increases, P(x) decreases, leading to a rapidly declining probability for larger events.
 
-
+And very interesting to note that α is typically a float value typically between 2 to 3 for real world cases [similar to fractals that have dimension D in the range typically between 0 and 3 as a fraction]. If α is closer to 1, the probability of large numbers occuring is less rarer than if α was >3. For Zipf's law (generally taken for rank of a city being inversely proportional to city size), the α is closer to 1 or an integer value; so cities are less complex than most real world pheonomenon!? This gives me hope for solving issues of settlements, if this were true! 
