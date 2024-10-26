@@ -39,9 +39,30 @@ Fractals are repeated patterns but they have non-integer values as their dimenti
 
 This took me a while to wrap my head around it but here are a few interesting things to know about power law distributions:
 
-It is 'scale-free'. Which means that 
+It is 'scale-free'. Which means that - 
+
+no clustering around any moments (mean, median, mode, rate of decay?, kurtosis?, skewness?) 
+
+infinite variance - long tails - tending to infinity - most values in the start and very few but very large values at the other end - primacy in cities - sizes of cities 
+
+No typical range or numbers - of how small or large the numbers can be 
+
+If you zoom in anywhere, the graph looks the same - what does this mean?
+
+related to fractals (how?)
+
+central limit theorem doesn't apply
+
+**still there are patterns:** such as:
+
+majority small numbers, very few and far spread-out large numbers in distribution 
 
 
 
 
 
+#### Formula of Power Law distribution:
+
+P = C*(x^-alpha)
+
+-alpha because? and to the power because - 
