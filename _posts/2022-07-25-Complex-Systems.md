@@ -63,22 +63,8 @@ majority small numbers, very few and far spread-out large numbers in distributio
 
 #### Formula of Power Law distribution:
 
-P = C*(x^-𝛼)
+P(x) = C*(x^-𝛼)
 
-where alpha is a positive constant 
-
-raised to negetive power as the large numbers are rare but not impossible 
-with 
-
->
-0
-α>0, we see that as 
-𝑥
-x increases, 
-𝑃
-(
-𝑥
-)
-P(x) decreases, leading to a rapidly declining probability for larger events.
+α>0, and the negative power indicates that as x increases, P(x) decreases, leading to a rapidly declining probability for larger events.
 
 
