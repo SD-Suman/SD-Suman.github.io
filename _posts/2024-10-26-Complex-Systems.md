@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complex Systems and Power Laws
-subtitle: Simplified answer to the question - "What are Complex Systems?"
+subtitle: Simplified answer to the complexity of 'Complex Systems'
 tags:
   - complexity
   - brief
