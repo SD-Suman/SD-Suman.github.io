@@ -6,10 +6,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Build the site in the jekyll/builder container
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7' # or another compatible Ruby version
+      - name: Install dependencies
         run: |
-          export JEKYLL_VERSION=4.2 # Change to a newer Jekyll version
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          gem update --system 3.3.22 # Ensure RubyGems is up to date
+          bundle install
+      - name: Build the site
+        run: bundle exec jekyll build --future
