@@ -49,7 +49,7 @@ No typical range or numbers - of how small or large the numbers can be
 
 If you zoom in anywhere, the graph looks the same - what does this mean?
 
-related to fractals (how?)
+related to fractals (how?) - self similarity - zoom in and see the same pattern 
 
 central limit theorem doesn't apply
 
@@ -63,6 +63,22 @@ majority small numbers, very few and far spread-out large numbers in distributio
 
 #### Formula of Power Law distribution:
 
-P = C*(x^-alpha)
+P = C*(x^-𝛼)
 
--alpha because? and to the power because - 
+where alpha is a positive constant 
+
+raised to negetive power as the large numbers are rare but not impossible 
+with 
+
+>
+0
+α>0, we see that as 
+𝑥
+x increases, 
+𝑃
+(
+𝑥
+)
+P(x) decreases, leading to a rapidly declining probability for larger events.
+
+
