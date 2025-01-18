@@ -8,6 +8,8 @@ tags:
 published: true
 ---
 
+Not that every city should look the same, but sensible disabled-friendly infrastructure helps everyone.
+
 ## Visual impairment in numbers:
 
 Worldwide, the proportion of total blindness is **0.55%**, and about **7%** of the population have mild to moderate vision impairment [1]. In India, these proportions are higher: **0.9%** and **10.6%**, respectively [2]. While it affects people of all age groups, the majority of the people are over 50 [3]. In Indian cities, this proportion is expected to be higher as people flock to cities for employment opportunities, infrastructure, and services such as better healthcare and educational facilities catering to the visually impaired people.
