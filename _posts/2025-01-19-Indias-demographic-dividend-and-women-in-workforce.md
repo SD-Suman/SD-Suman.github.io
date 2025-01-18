@@ -1,3 +1,15 @@
+---
+layout: post
+title: India's Demographic Dividend and Women in Workforce
+subtitle: Need for more flexible work options 
+tags:
+  - economics
+  - demography
+  - women
+  - gender
+  - workforce 
+published: true
+---
 
 India stands at a critical juncture in its economic development, with a unique opportunity to leverage its demographic dividend. With 62.5% of its population in the working-age group of 15-59 years and especially with its female labour force participation rate almost doubling in the last 6 years ([source](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241118436101.pdf)), the country is poised for significant growth. However, to fully harness this potential, sans the ill effects of declining fertility rates and fragmented family structure, it is essential to increase women's workforce participation, particularly in urban areas, while also shifting employment opportunities to tier 2 and tier 3 cities. This article explores the barriers faced by women, the importance of flexible work arrangements, and the potential of smaller cities to capture this demographic dividend.
 
