@@ -1,3 +1,12 @@
+---
+layout: post
+title: my journey with causal analysis
+subtitle: one of the most interesting topics ever
+tags:
+  - Python
+published: false
+---
+
 #### Change date in title when I publish
 
 ## A curiosity driven serendipitous journey
