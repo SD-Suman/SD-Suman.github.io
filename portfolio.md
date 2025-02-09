@@ -5,6 +5,19 @@ subtitle: Selected Projects
 published: true
 ---
 
+# [Causal Inference: rail network is a key driver of migration flows in India](/portfolio/2025-02-09-rail-migration-causal-analysis.md) 
+
+<div style="text-align: center;">
+    <img src="/assets/img/roadnet/BBMP_dead_ends.png" alt="image" width="400"/>
+</div>
+
+I used network analysis, causal analysis and econometrics to get to the results. I analysed if rail routes had any (causal) effect on migration patterns in India using Difference and Differencesnetworkx in python. Read more about it [here](/portfolio/2025-02-09-rail-migration-causal-analysis.md)
+
+
+<!--
+![image](/assets/img/roadnet/BBMP_dead_ends.png)
+-->
+
 
 # [Bangalore's Road Network Analysis](/portfolio/2024-10-09-Bangalore-road-network-analysis.md) 
 
