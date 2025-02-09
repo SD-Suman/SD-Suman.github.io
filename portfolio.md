@@ -11,7 +11,7 @@ published: true
     <img src="/assets/img/roadnet/BBMP_dead_ends.png" alt="image" width="400"/>
 </div>
 
-I used network analysis, causal analysis and econometrics to get to the results. I analysed if rail routes had any (causal) effect on migration patterns in India using Difference and Differencesnetworkx in python. Read more about it [here](/portfolio/2025-02-09-rail-migration-causal-analysis.md)
+I used network analysis, causal analysis and econometrics to get to the results. I analysed if rail routes had any (causal) effect on migration patterns in India using Difference and Differences. Read more about it [here](/portfolio/2025-02-09-rail-migration-causal-analysis.md)
 
 
 <!--
