@@ -56,8 +56,11 @@ Here while the edge weights show the weights (flow of people or number of trains
 I got a Difference in Differences result of 225.36 with a regression analysis with interaction terms result of following values where regression was controlled for treatment and control (binary 1 and 0), for year/time 2011 and 2001 (binary 1 and 0) and the interaction term (treatment x time) which gives the DiD effect. 
 
 DiD Estimate: 4643.392623492884
+
 Standard Error: 825.3869288494859
+
 95% Confidence Interval: (3025.634242947892, 6261.151004037876)
+
 The DiD estimate is statistically significant.
 
 ![image](/assets/img/causalrailmig/DiDParallelTrendsplot.png)
@@ -91,13 +94,17 @@ In addition to the bipartite network (node-sets a and b) analysis I also did a o
 One mode projection - network analysis of district node sets:
 
 **Degree Assortativity Analysis**
+
 Degree Assortativity for dis1: -0.9367
+
 Degree Assortativity for dis11: -0.9367
+
 Degree Assortativity for disr: -0.7219
 
 Negative values of degree assortivity indicate that high-degree nodes tend to connect to low-degree nodes. Hub and spoke structures follow this pattern where highly connected districts are connected to low-degree districts or peripheral nodes. Here while migration networks (dis1 and dis11) show this pattern, rail networks (disr) have lower negative assortivity. 
 
 Correlation (dis1 vs dis11): Pearson R Result (statistic=0.9999999999999998, pvalue=0.0)
+
 Correlation (disr vs dis11) and (disr vs dis1): Pearson R Result(statistic=0.44427242911282966, pvalue=1.2368357007826973e-20)
 
 The earlier mentioned similarity between the G1 and G11 graphs is shown above by the correlation coefficients and we can notice that one-mode district node projection has a slightly higher correlation coefficient than that for bipartite graph (with both node sets). 
