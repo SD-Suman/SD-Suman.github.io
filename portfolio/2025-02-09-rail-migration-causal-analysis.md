@@ -97,8 +97,8 @@ Degree Assortativity for disr: -0.7219
 
 Negative values of degree assortivity indicate that high-degree nodes tend to connect to low-degree nodes. Hub and spoke structures follow this pattern where highly connected districts are connected to low-degree districts or peripheral nodes. Here while migration networks (dis1 and dis11) show this pattern, rail networks (disr) have lower negative assortivity. 
 
-Correlation (dis1 vs dis11): PearsonRResult(statistic=0.9999999999999998, pvalue=0.0)
-Correlation (disr vs dis11) and (disr vs dis1): PearsonRResult(statistic=0.44427242911282966, pvalue=1.2368357007826973e-20)
+Correlation (dis1 vs dis11): Pearson R Result (statistic=0.9999999999999998, pvalue=0.0)
+Correlation (disr vs dis11) and (disr vs dis1): Pearson R Result(statistic=0.44427242911282966, pvalue=1.2368357007826973e-20)
 
 The earlier mentioned similarity between the G1 and G11 graphs is shown above by the correlation coefficients and we can notice that one-mode district node projection has a slightly higher correlation coefficient than that for bipartite graph (with both node sets). 
 
