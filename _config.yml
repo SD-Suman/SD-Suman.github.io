@@ -44,7 +44,7 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: 
   github: SD-Suman
-  twitter-x: theonlysumanity
+  twitter: theonlysumanity
 #  patreon: 
 #  youtube: 
 #  medium: yourname
@@ -76,7 +76,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter-x: true
+  twitter: true
   facebook: true
   linkedin: true
   vk: false
