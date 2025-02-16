@@ -41,6 +41,11 @@ Analysing the three graphs individually, in the above plot, we can see nodes wit
 The weighted bipartite networks themselves look like this:
 ![image](/assets/img/causalrailmig/weightedbipartiteNs.png) where the weights are given by edge color and nodes are all the same blue. 
 
+Even though the thresholds in the above are weights shown above 10k migrants and >3 rail routes, the graphs may not be easy for visualization, so dialing up the threshold to 50k migrants and a min of 10 rail routes, we get the (easier) visualization:
+
+![image](/assets/img/causalrailmig/weightedbipartiteNs_high_thres.png)
+
+
 ### Rail network is a key driver of interstate migration in India
 
 For the rail routes to be related to migration flows, the data need not be correlated. I got a weak positive correlation coefficient of ~ 0.37 for both Gr with G1 and Gr with G11, while G1 and G11 are similar but G11 is of far greater magnitude; an r squared value (coefficient of determination) of ~ 0.14. 
