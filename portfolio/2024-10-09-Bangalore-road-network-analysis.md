@@ -46,7 +46,15 @@ I also wanted to look at the connected components subgraphs using cliques or com
 
 ![image](/assets/img/roadnet/Pette_greedy_modularity_community.png)
 
-I will update this page as I get to more analysis on the road network. I have a few other analysis worked out such as vornoi of road network accessed by the surrounding areas, connected components, etc. but that requires cleaner data to make sense out of it. Stay tuned and come back for more updates later! 
+To know how much of an area one road serves its surroundings and subsequently know how it divides the space up, I took the centroid of each line and did a vornoi space analysis from those points for Pette area. Take this with a grain of salt as its not done on clean road network (there are more than one line representing the major roads). This is how it is: 
+
+![image](/assets/img/roadnet/VornoiPette.png)
+
+I got the communities/neighbourhood map for Bangalore too: 
+
+![image](/assets/img/roadnet/BangaloreNeighbourhoods.png)
+
+I will update this page as I get to more analysis on the road network. I have a few other analysis worked out such as connected components, the nearest road to dead-ends -- so it can be found out which ones can be connected and got alternative routes for etc. Some of it needs to be scaled up from my test area to the whole city and some need cleaner data. Stay tuned and come back for more updates later! 
 
 
 
